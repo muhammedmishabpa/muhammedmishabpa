@@ -2,7 +2,7 @@
 
 ### Also known as **muhammedmishabpa**
 
-🔗 Live site: portfolio-mishab.vercel.app
+🔗 **Live site:** [portfolio-mishab.vercel.app](https://portfolio-mishab.vercel.app)
 
 💻 Frontend Web Developer | 🎥 Content Creator | 🚀 Lifelong Learner
 
